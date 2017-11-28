@@ -22,5 +22,5 @@ for i in string:
 
 print(decode)
 
-// The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+# The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
