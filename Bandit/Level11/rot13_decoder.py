@@ -1,7 +1,6 @@
 
 string = 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh'
 decode = ''
-
 remainder = 0
 
 for i in string:
