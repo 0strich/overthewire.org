@@ -1,4 +1,3 @@
-
 string = 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh'
 decode = ''
 remainder = 0
@@ -22,4 +21,3 @@ for i in string:
 print(decode)
 
 # The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
-
