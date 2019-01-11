@@ -1,4 +1,4 @@
-# Bandit Level 7 ¡æ Level 8
+# Bandit Level 7 -> Level 8
 
 ## Level Goal
 

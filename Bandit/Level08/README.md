@@ -1,4 +1,4 @@
-# Bandit Level 8 ¡æ Level 9
+# Bandit Level 8 -> Level 9
 
 ## Level Goal
 
