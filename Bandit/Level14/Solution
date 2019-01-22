@@ -1,0 +1,23 @@
+bandit14@bandit:~$ ls -al
+total 24
+drwxr-xr-x  3 root root 4096 Oct 16 14:00 .
+drwxr-xr-x 41 root root 4096 Oct 16 14:00 ..
+-rw-r--r--  1 root root  220 May 15  2017 .bash_logout
+-rw-r--r--  1 root root 3526 May 15  2017 .bashrc
+-rw-r--r--  1 root root  675 May 15  2017 .profile
+drwxr-xr-x  2 root root 4096 Oct 16 14:00 .ssh
+bandit14@bandit:~$ cd .ssh/
+bandit14@bandit:~/.ssh$ ls
+authorized_keys
+bandit14@bandit:~/.ssh$ cat /etc/bandit_pass/bandit14
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+bandit14@bandit:~/.ssh$ telnet localhost 30000
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+Correct!
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+Connection closed by foreign host.
+bandit14@bandit:~/.ssh$
